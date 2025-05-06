@@ -11,7 +11,7 @@ API_ID = os.environ.get("API_ID", "23476863")
 
 API_HASH = os.environ.get("API_HASH", "69daa0835439c4211f34c2e9ad0acb5c")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7864374466:AAG2-q-w7LtuLBQ2D2Y-0vy973wiLRN20JE") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7722185407:AAEvgoIfp9buMXITMRJdEag9xe1nHGeUlAM") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "New_Anime_Hindi_Dub_Series") 
 
