@@ -17,7 +17,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "New_Anime_Hindi_Dub_Series")
 
          
 
-DB_NAME = os.environ.get("DB_NAME", "haruto")     
+DB_NAME = os.environ.get("DB_NAME", "Haruto")     
 
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://haruto:<haruto@2025>@otakunexus.aaol7be.mongodb.net/?retryWrites=true&w=majority&appName=Otakunexus")
  
